@@ -55,8 +55,8 @@ product-classification/
 ## Getting Started
 
 ```bash
-git clone https://github.com/miroslavjovanovicsrb/product-classification-task.git
-cd product-classification-task
+git clone https://github.com/miroslavjovanovicsrb/product-classification.git
+cd product-classification
 pip install -r requirements.txt
 jupyter notebook
 ```
